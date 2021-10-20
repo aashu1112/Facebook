@@ -9,5 +9,10 @@ public class ContactTest {
 	{
 		System.out.println("hello this is first program");
 	}
+	@Test
+	public void start1()
+	{
+		System.out.println("hellow this is second program");
+	}
 
 }
