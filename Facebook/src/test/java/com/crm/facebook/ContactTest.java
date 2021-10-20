@@ -14,5 +14,10 @@ public class ContactTest {
 	{
 		System.out.println("hellow this is second program");
 	}
+	@Test
+	public void start2()
+	{
+		System.out.println("bye this is last program");
+	}
 
 }
